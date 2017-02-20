@@ -1,0 +1,122 @@
+C:\Users\Miro\Desktop\3D reconstruction\3D reconstruction\bin\Debug\3D reconstruction.exe.config
+C:\Users\Miro\Desktop\3D reconstruction\3D reconstruction\bin\Debug\3D reconstruction.exe
+C:\Users\Miro\Desktop\3D reconstruction\3D reconstruction\bin\Debug\3D reconstruction.pdb
+C:\Users\Miro\Desktop\3D reconstruction\3D reconstruction\bin\Debug\Emgu.CV.dll
+C:\Users\Miro\Desktop\3D reconstruction\3D reconstruction\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Miro\Desktop\3D reconstruction\3D reconstruction\bin\Debug\Emgu.Util.dll
+C:\Users\Miro\Desktop\3D reconstruction\3D reconstruction\obj\Debug\3D reconstruction.csprojResolveAssemblyReference.cache
+C:\Users\Miro\Desktop\3D reconstruction\3D reconstruction\obj\Debug\_3D_reconstruction.MainForm.resources
+C:\Users\Miro\Desktop\3D reconstruction\3D reconstruction\obj\Debug\_3D_reconstruction.Properties.Resources.resources
+C:\Users\Miro\Desktop\3D reconstruction\3D reconstruction\obj\Debug\3D reconstruction.csproj.GenerateResource.Cache
+C:\Users\Miro\Desktop\3D reconstruction\3D reconstruction\obj\Debug\3D reconstruction.exe
+C:\Users\Miro\Desktop\3D reconstruction\3D reconstruction\obj\Debug\3D reconstruction.pdb
+C:\Users\Miroslav\Desktop\3D reconstruction\3D reconstruction\bin\Debug\3D reconstruction.exe.config
+C:\Users\Miroslav\Desktop\3D reconstruction\3D reconstruction\bin\Debug\3D reconstruction.exe
+C:\Users\Miroslav\Desktop\3D reconstruction\3D reconstruction\bin\Debug\3D reconstruction.pdb
+C:\Users\Miroslav\Desktop\3D reconstruction\3D reconstruction\obj\Debug\3D reconstruction.csprojResolveAssemblyReference.cache
+C:\Users\Miroslav\Desktop\3D reconstruction\3D reconstruction\obj\Debug\_3D_reconstruction.MainForm.resources
+C:\Users\Miroslav\Desktop\3D reconstruction\3D reconstruction\obj\Debug\_3D_reconstruction.Properties.Resources.resources
+C:\Users\Miroslav\Desktop\3D reconstruction\3D reconstruction\obj\Debug\3D reconstruction.csproj.GenerateResource.Cache
+C:\Users\Miroslav\Desktop\3D reconstruction\3D reconstruction\obj\Debug\3D reconstruction.exe
+C:\Users\Miroslav\Desktop\3D reconstruction\3D reconstruction\obj\Debug\3D reconstruction.pdb
+C:\Users\Miroslav\Desktop\Диплом бакалавр\3D reconstruction\3D reconstruction\bin\Debug\3D reconstruction.exe.config
+C:\Users\Miroslav\Desktop\Диплом бакалавр\3D reconstruction\3D reconstruction\obj\Debug\3D reconstruction.exe
+C:\Users\Miroslav\Desktop\Диплом бакалавр\3D reconstruction\3D reconstruction\obj\Debug\3D reconstruction.pdb
+C:\Users\Miroslav\Desktop\Диплом бакалавр\3D reconstruction\3D reconstruction\bin\Debug\3D reconstruction.exe
+C:\Users\Miroslav\Desktop\Диплом бакалавр\3D reconstruction\3D reconstruction\bin\Debug\3D reconstruction.pdb
+C:\Users\Miroslav\Desktop\Диплом бакалавр\3D reconstruction\3D reconstruction\obj\Debug\3D reconstruction.csprojResolveAssemblyReference.cache
+C:\Users\Miroslav\Desktop\Диплом бакалавр\3D reconstruction\3D reconstruction\obj\Debug\_3D_reconstruction.MainForm.resources
+C:\Users\Miroslav\Desktop\Диплом бакалавр\3D reconstruction\3D reconstruction\obj\Debug\_3D_reconstruction.Properties.Resources.resources
+C:\Users\Miroslav\Desktop\Диплом бакалавр\3D reconstruction\3D reconstruction\obj\Debug\3D reconstruction.csproj.GenerateResource.Cache
+E:\3D reconstruction\3D reconstruction\bin\Debug\3D reconstruction.exe.config
+E:\3D reconstruction\3D reconstruction\obj\Debug\3D reconstruction.exe
+E:\3D reconstruction\3D reconstruction\obj\Debug\3D reconstruction.pdb
+E:\3D reconstruction\3D reconstruction\obj\Debug\3D reconstruction.csprojResolveAssemblyReference.cache
+E:\3D reconstruction\3D reconstruction\obj\Debug\_3D_reconstruction.MainForm.resources
+E:\3D reconstruction\3D reconstruction\obj\Debug\_3D_reconstruction.Properties.Resources.resources
+E:\3D reconstruction\3D reconstruction\obj\Debug\3D reconstruction.csproj.GenerateResource.Cache
+E:\3D reconstruction\3D reconstruction\bin\Debug\3D reconstruction.exe
+E:\3D reconstruction\3D reconstruction\bin\Debug\3D reconstruction.pdb
+E:\3D reconstruction\3D reconstruction\bin\Debug\ZedGraph.dll
+E:\3D reconstruction\3D reconstruction\bin\Debug\Emgu.CV.xml
+E:\3D reconstruction\3D reconstruction\bin\Debug\Emgu.CV.UI.xml
+E:\3D reconstruction\3D reconstruction\bin\Debug\Emgu.Util.xml
+E:\3D reconstruction\3D reconstruction\bin\Debug\ZedGraph.xml
+E:\3D reconstruction\3D reconstruction\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\Мирослав\Desktop\3D reconstruction\3D reconstruction\bin\Debug\3D reconstruction.exe.config
+C:\Users\Мирослав\Desktop\3D reconstruction\3D reconstruction\obj\Debug\3D reconstruction.exe
+C:\Users\Мирослав\Desktop\3D reconstruction\3D reconstruction\obj\Debug\3D reconstruction.pdb
+C:\Users\Мирослав\Desktop\3D reconstruction\3D reconstruction\bin\Debug\3D reconstruction.exe
+C:\Users\Мирослав\Desktop\3D reconstruction\3D reconstruction\bin\Debug\3D reconstruction.pdb
+C:\Users\Мирослав\Desktop\3D reconstruction\3D reconstruction\bin\Debug\ZedGraph.dll
+C:\Users\Мирослав\Desktop\3D reconstruction\3D reconstruction\bin\Debug\Emgu.CV.xml
+C:\Users\Мирослав\Desktop\3D reconstruction\3D reconstruction\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Мирослав\Desktop\3D reconstruction\3D reconstruction\bin\Debug\Emgu.Util.xml
+C:\Users\Мирослав\Desktop\3D reconstruction\3D reconstruction\bin\Debug\ZedGraph.xml
+C:\Users\Мирослав\Desktop\3D reconstruction\3D reconstruction\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\Мирослав\Desktop\3D reconstruction\3D reconstruction\obj\Debug\3D reconstruction.csprojResolveAssemblyReference.cache
+C:\Users\Мирослав\Desktop\3D reconstruction\3D reconstruction\obj\Debug\_3D_reconstruction.MainForm.resources
+C:\Users\Мирослав\Desktop\3D reconstruction\3D reconstruction\obj\Debug\_3D_reconstruction.Properties.Resources.resources
+C:\Users\Мирослав\Desktop\3D reconstruction\3D reconstruction\obj\Debug\3D reconstruction.csproj.GenerateResource.Cache
+C:\Users\Мирослав\Desktop\3d reconstruction frontal\3D reconstruction\bin\Debug\3D reconstruction.exe.config
+C:\Users\Мирослав\Desktop\3d reconstruction frontal\3D reconstruction\bin\Debug\3D reconstruction.exe
+C:\Users\Мирослав\Desktop\3d reconstruction frontal\3D reconstruction\bin\Debug\3D reconstruction.pdb
+C:\Users\Мирослав\Desktop\3d reconstruction frontal\3D reconstruction\obj\Debug\_3D_reconstruction.MainForm.resources
+C:\Users\Мирослав\Desktop\3d reconstruction frontal\3D reconstruction\obj\Debug\_3D_reconstruction.Properties.Resources.resources
+C:\Users\Мирослав\Desktop\3d reconstruction frontal\3D reconstruction\obj\Debug\3D reconstruction.csproj.GenerateResource.Cache
+C:\Users\Мирослав\Desktop\3d reconstruction frontal\3D reconstruction\obj\Debug\3D reconstruction.exe
+C:\Users\Мирослав\Desktop\3d reconstruction frontal\3D reconstruction\obj\Debug\3D reconstruction.pdb
+C:\Users\Мирослав\Desktop\3d reconstruction frontal\3D reconstruction\obj\Debug\3D reconstruction.csprojResolveAssemblyReference.cache
+C:\Users\Мирослав\Desktop\Спеціаліст\3d reconstruction frontal\3D reconstruction\bin\Debug\3D reconstruction.exe.config
+C:\Users\Мирослав\Desktop\Спеціаліст\3d reconstruction frontal\3D reconstruction\obj\Debug\3D reconstruction.exe
+C:\Users\Мирослав\Desktop\Спеціаліст\3d reconstruction frontal\3D reconstruction\obj\Debug\3D reconstruction.pdb
+C:\Users\Мирослав\Desktop\Спеціаліст\3d reconstruction frontal\3D reconstruction\bin\Debug\3D reconstruction.exe
+C:\Users\Мирослав\Desktop\Спеціаліст\3d reconstruction frontal\3D reconstruction\bin\Debug\3D reconstruction.pdb
+C:\Users\Мирослав\Desktop\Спеціаліст\3d reconstruction frontal\3D reconstruction\obj\Debug\3D reconstruction.csprojResolveAssemblyReference.cache
+C:\Users\Мирослав\Desktop\Спеціаліст\3d reconstruction frontal\3D reconstruction\obj\Debug\_3D_reconstruction.MainForm.resources
+C:\Users\Мирослав\Desktop\Спеціаліст\3d reconstruction frontal\3D reconstruction\obj\Debug\_3D_reconstruction.Properties.Resources.resources
+C:\Users\Мирослав\Desktop\Спеціаліст\3d reconstruction frontal\3D reconstruction\obj\Debug\3D reconstruction.csproj.GenerateResource.Cache
+C:\Users\Мирослав\Desktop\Новая папка (3)\3d reconstruction frontal\3D reconstruction\bin\Debug\3D reconstruction.exe.config
+C:\Users\Мирослав\Desktop\Новая папка (3)\3d reconstruction frontal\3D reconstruction\obj\Debug\3D reconstruction.exe
+C:\Users\Мирослав\Desktop\Новая папка (3)\3d reconstruction frontal\3D reconstruction\obj\Debug\3D reconstruction.pdb
+C:\Users\Мирослав\Desktop\Новая папка (3)\3d reconstruction frontal\3D reconstruction\bin\Debug\3D reconstruction.exe
+C:\Users\Мирослав\Desktop\Новая папка (3)\3d reconstruction frontal\3D reconstruction\bin\Debug\3D reconstruction.pdb
+C:\Users\Мирослав\Desktop\Новая папка (3)\3d reconstruction frontal\3D reconstruction\obj\Debug\3D reconstruction.csprojResolveAssemblyReference.cache
+C:\Users\Мирослав\Desktop\Новая папка (3)\3d reconstruction frontal\3D reconstruction\obj\Debug\_3D_reconstruction.MainForm.resources
+C:\Users\Мирослав\Desktop\Новая папка (3)\3d reconstruction frontal\3D reconstruction\obj\Debug\_3D_reconstruction.Properties.Resources.resources
+C:\Users\Мирослав\Desktop\Новая папка (3)\3d reconstruction frontal\3D reconstruction\obj\Debug\3D reconstruction.csproj.GenerateResource.Cache
+C:\Users\Мирослав\Desktop\захист\3d reconstruction frontal\3D reconstruction\bin\Debug\3D reconstruction.exe.config
+C:\Users\Мирослав\Desktop\захист\3d reconstruction frontal\3D reconstruction\bin\Debug\3D reconstruction.exe
+C:\Users\Мирослав\Desktop\захист\3d reconstruction frontal\3D reconstruction\bin\Debug\3D reconstruction.pdb
+C:\Users\Мирослав\Desktop\захист\3d reconstruction frontal\3D reconstruction\obj\Debug\3D reconstruction.csprojResolveAssemblyReference.cache
+C:\Users\Мирослав\Desktop\захист\3d reconstruction frontal\3D reconstruction\obj\Debug\_3D_reconstruction.MainForm.resources
+C:\Users\Мирослав\Desktop\захист\3d reconstruction frontal\3D reconstruction\obj\Debug\_3D_reconstruction.Properties.Resources.resources
+C:\Users\Мирослав\Desktop\захист\3d reconstruction frontal\3D reconstruction\obj\Debug\3D reconstruction.csproj.GenerateResource.Cache
+C:\Users\Мирослав\Desktop\захист\3d reconstruction frontal\3D reconstruction\obj\Debug\3D reconstruction.exe
+C:\Users\Мирослав\Desktop\захист\3d reconstruction frontal\3D reconstruction\obj\Debug\3D reconstruction.pdb
+E:\Універ\Study\Диплом спеціаліст\3d reconstruction\3D reconstruction\bin\Debug\3D reconstruction.exe.config
+E:\Універ\Study\Диплом спеціаліст\3d reconstruction\3D reconstruction\obj\Debug\3D reconstruction.exe
+E:\Універ\Study\Диплом спеціаліст\3d reconstruction\3D reconstruction\obj\Debug\3D reconstruction.pdb
+E:\Універ\Study\Диплом спеціаліст\3d reconstruction\3D reconstruction\obj\Debug\3D reconstruction.csprojResolveAssemblyReference.cache
+E:\Універ\Study\Диплом спеціаліст\3d reconstruction\3D reconstruction\obj\Debug\_3D_reconstruction.MainForm.resources
+E:\Універ\Study\Диплом спеціаліст\3d reconstruction\3D reconstruction\obj\Debug\_3D_reconstruction.Properties.Resources.resources
+E:\Універ\Study\Диплом спеціаліст\3d reconstruction\3D reconstruction\obj\Debug\3D reconstruction.csproj.GenerateResource.Cache
+D:\Універ\Study\Диплом спеціаліст\3d reconstruction\3D reconstruction\bin\Debug\3D reconstruction.exe.config
+D:\Універ\Study\Диплом спеціаліст\3d reconstruction\3D reconstruction\obj\Debug\3D reconstruction.exe
+D:\Універ\Study\Диплом спеціаліст\3d reconstruction\3D reconstruction\obj\Debug\3D reconstruction.pdb
+D:\Універ\Study\Диплом спеціаліст\3d reconstruction\3D reconstruction\bin\Debug\3D reconstruction.exe
+D:\Універ\Study\Диплом спеціаліст\3d reconstruction\3D reconstruction\bin\Debug\3D reconstruction.pdb
+D:\Універ\Study\Диплом спеціаліст\3d reconstruction\3D reconstruction\bin\Debug\Tao.DevIl.dll
+D:\Універ\Study\Диплом спеціаліст\3d reconstruction\3D reconstruction\bin\Debug\Tao.FreeGlut.dll
+D:\Універ\Study\Диплом спеціаліст\3d reconstruction\3D reconstruction\bin\Debug\Tao.FreeType.dll
+D:\Універ\Study\Диплом спеціаліст\3d reconstruction\3D reconstruction\bin\Debug\Tao.OpenGl.dll
+D:\Універ\Study\Диплом спеціаліст\3d reconstruction\3D reconstruction\bin\Debug\Tao.Platform.Windows.dll
+D:\Універ\Study\Диплом спеціаліст\3d reconstruction\3D reconstruction\bin\Debug\Tao.DevIl.xml
+D:\Універ\Study\Диплом спеціаліст\3d reconstruction\3D reconstruction\bin\Debug\Tao.FreeGlut.xml
+D:\Універ\Study\Диплом спеціаліст\3d reconstruction\3D reconstruction\bin\Debug\Tao.FreeType.xml
+D:\Універ\Study\Диплом спеціаліст\3d reconstruction\3D reconstruction\bin\Debug\Tao.OpenGl.xml
+D:\Універ\Study\Диплом спеціаліст\3d reconstruction\3D reconstruction\bin\Debug\Tao.Platform.Windows.xml
+D:\Універ\Study\Диплом спеціаліст\3d reconstruction\3D reconstruction\obj\Debug\3D reconstruction.csprojResolveAssemblyReference.cache
+D:\Універ\Study\Диплом спеціаліст\3d reconstruction\3D reconstruction\obj\Debug\_3D_reconstruction.MainForm.resources
+D:\Універ\Study\Диплом спеціаліст\3d reconstruction\3D reconstruction\obj\Debug\_3D_reconstruction.Properties.Resources.resources
+D:\Універ\Study\Диплом спеціаліст\3d reconstruction\3D reconstruction\obj\Debug\3D reconstruction.csproj.GenerateResource.Cache

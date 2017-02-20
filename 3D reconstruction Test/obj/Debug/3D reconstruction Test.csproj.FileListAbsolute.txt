@@ -1,0 +1,20 @@
+C:\Users\Мирослав\Desktop\3d reconstruction frontal\3D reconstruction Test\bin\Debug\3D reconstruction Test.dll
+C:\Users\Мирослав\Desktop\3d reconstruction frontal\3D reconstruction Test\bin\Debug\3D reconstruction Test.pdb
+C:\Users\Мирослав\Desktop\3d reconstruction frontal\3D reconstruction Test\obj\Debug\3D reconstruction Test.csprojResolveAssemblyReference.cache
+C:\Users\Мирослав\Desktop\3d reconstruction frontal\3D reconstruction Test\obj\Debug\3D reconstruction Test.dll
+C:\Users\Мирослав\Desktop\3d reconstruction frontal\3D reconstruction Test\obj\Debug\3D reconstruction Test.pdb
+C:\Users\Мирослав\Desktop\3d reconstruction frontal\3D reconstruction Test\bin\Debug\3D reconstruction.exe
+C:\Users\Мирослав\Desktop\3d reconstruction frontal\3D reconstruction Test\bin\Debug\Emgu.CV.dll
+C:\Users\Мирослав\Desktop\3d reconstruction frontal\3D reconstruction Test\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Мирослав\Desktop\3d reconstruction frontal\3D reconstruction Test\bin\Debug\Emgu.Util.dll
+C:\Users\Мирослав\Desktop\3d reconstruction frontal\3D reconstruction Test\bin\Debug\3D reconstruction.pdb
+C:\Users\Мирослав\Desktop\Спеціаліст\3d reconstruction frontal\3D reconstruction Test\bin\Debug\3D reconstruction Test.dll
+C:\Users\Мирослав\Desktop\Спеціаліст\3d reconstruction frontal\3D reconstruction Test\bin\Debug\3D reconstruction Test.pdb
+C:\Users\Мирослав\Desktop\Спеціаліст\3d reconstruction frontal\3D reconstruction Test\bin\Debug\3D reconstruction.exe
+C:\Users\Мирослав\Desktop\Спеціаліст\3d reconstruction frontal\3D reconstruction Test\bin\Debug\Emgu.CV.dll
+C:\Users\Мирослав\Desktop\Спеціаліст\3d reconstruction frontal\3D reconstruction Test\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Мирослав\Desktop\Спеціаліст\3d reconstruction frontal\3D reconstruction Test\bin\Debug\Emgu.Util.dll
+C:\Users\Мирослав\Desktop\Спеціаліст\3d reconstruction frontal\3D reconstruction Test\bin\Debug\3D reconstruction.pdb
+C:\Users\Мирослав\Desktop\Спеціаліст\3d reconstruction frontal\3D reconstruction Test\obj\Debug\3D reconstruction Test.csprojResolveAssemblyReference.cache
+C:\Users\Мирослав\Desktop\Спеціаліст\3d reconstruction frontal\3D reconstruction Test\obj\Debug\3D reconstruction Test.dll
+C:\Users\Мирослав\Desktop\Спеціаліст\3d reconstruction frontal\3D reconstruction Test\obj\Debug\3D reconstruction Test.pdb
